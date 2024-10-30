@@ -55,10 +55,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-della&show_icons=true&locale=en&layout=compact" alt="sudo-della" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-della&show_icons=true&locale=en" alt="sudo-della" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-della&show_icons=true&locale=en&layout=compact&theme=dark" alt="sudo-della" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-della&show_icons=true&locale=en&theme=dark" alt="sudo-della" /></p>
 </div>
+
 
 <br/><br/>
 
