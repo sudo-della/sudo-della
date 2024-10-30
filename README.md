@@ -1,22 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniella+Kalombo!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software engineering student at WeThinkCode_</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **ToDo**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, React**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, sql**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Your brain uses 10 watts of energy to think, and does not feel pain**
 
  </div>
  
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java" />
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,docker,c#,git" /><br>
 </div>
 
 <br/>
@@ -57,9 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ray-cod&show_icons=true&locale=en&layout=compact" alt="ray-cod" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ray-cod&show_icons=true&locale=en" alt="ray-cod" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-della&show_icons=true&locale=en&layout=compact" alt="sudo-della" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-della&show_icons=true&locale=en" alt="sudo-della" /></p>
 </div>
 
 <br/><br/>
